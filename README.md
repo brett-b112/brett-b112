@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently reading Usborne Introduction to Machine Code for Beginners
+
+:wq
 <!--
 **brett-b112/brett-b112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
